@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PM12024P1</string>
+    <string name="TextNombre">Ingrese su nombre</string>
+    <string name="TextApellido">Ingrese su apellido</string>
+    <string name="TextTelefono">Ingrese su telefono</string>
+    <string name="btn_procedar">Procesar</string>
+</resources>
